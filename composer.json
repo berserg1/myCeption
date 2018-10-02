@@ -1,0 +1,10 @@
+{
+    "require-dev": {
+        "codeception/codeception": "^2.5"
+    },
+    "require": {
+        "behat/behat": "^3.5",
+        "jacekk/codeception-dataprovider-module": "^1.1",
+        "ahmedsamy/codeception-smtp-mail": "^0.8.2"
+    }
+}
